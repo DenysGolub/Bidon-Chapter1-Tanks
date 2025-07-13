@@ -575,10 +575,10 @@ MonoBehaviour:
   m_FireClip: {fileID: 8300000, guid: 672a9941361ad494a99fba36759eca80, type: 3}
   m_MinLaunchForce: 5
   m_MaxLaunchForce: 20
-  m_MaxChargeTime: 1.59
+  m_MaxChargeTime: 1.5
   m_ShotCooldown: 1
   m_MaxDamage: 45
-  m_ExplosionForce: 1500
+  m_ExplosionForce: 100
   m_ExplosionRadius: 10
   m_InputUser: {fileID: 0}
 --- !u!114 &8651856387234125266
@@ -639,7 +639,7 @@ Transform:
   m_GameObject: {fileID: 6178663805752150200}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.65, z: 0}
+  m_LocalPosition: {x: 0, y: 1.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
