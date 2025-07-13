@@ -83,6 +83,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HealingIndicator
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8015a8eac3af7e94aa51752c84491c9a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1603246306389932429, guid: 8015a8eac3af7e94aa51752c84491c9a,
         type: 3}
       propertyPath: m_CastShadows
